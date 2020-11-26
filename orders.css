@@ -1,0 +1,17 @@
+table
+{
+    border: 2px solid black;
+    padding: 3px ;
+    text-align: center;
+    padding: 200px;
+}
+th
+{
+    border: 2px solid black;
+    background-color: rgb(17, 245, 214);
+}
+td
+{
+    border: 2px solid black;
+    padding: 4px;
+}
